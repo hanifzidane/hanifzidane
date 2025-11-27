@@ -12,15 +12,15 @@
 
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hanifzidane&theme=tokyonight"
-    width="300"
+    width="200"
   />
     <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hanifzidane&theme=tokyonight"
-    width="300"
+    width="200"
   />
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hanifzidane&theme=tokyonight"
-    width="300"
+    width="200"
   />
 
 </div>
@@ -56,14 +56,6 @@ My code style: **minimal, structured, cyber aesthetic**.
 
 ---
 
-
-
 ## 💬 Chill Corner
 > "Coding itu kayak seni—nggak harus cepat, yang penting rapi dan bikin nyaman dipandang."
 
-
----
-
-<p align="center">
-  ✨ Thanks for stopping by — stay chill 😎
-</p>
