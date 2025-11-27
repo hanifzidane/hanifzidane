@@ -79,5 +79,5 @@ My code style: **minimal, structured, cyber aesthetic**.
 ---
 
 ## 💬 Chill Corner
-> "Coding itu kayak seni—nggak harus cepat, yang penting rapi dan bikin nyaman dipandang."
+> "Jangan lupa titik koma 😁 ."
 
