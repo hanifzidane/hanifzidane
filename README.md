@@ -36,7 +36,7 @@ My code style: **minimal, structured, cyber aesthetic**.
 
 ---
 
-## ✨ Hologram Tech Stack
+## ✨ Tech Stack
 
 ### 🚀 Core Stack
 <p>
