@@ -5,22 +5,22 @@
 
 <!-- HOLOGRAM HEADER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/hanifzidane/hanifzidane/main/gojo.gif" width="500" />
+  <img src="https://raw.githubusercontent.com/hanifzidane/hanifzidane/main/gojo.gif" width="400" />
 </p>
 
 <div align="center">
 
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hanifzidane&theme=tokyonight"
-    width="200"
+    width="250"
   />
     <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hanifzidane&theme=tokyonight"
-    width="200"
+    width="250"
   />
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hanifzidane&theme=tokyonight"
-    width="200"
+    width="250"
   />
 
 </div>
