@@ -1,6 +1,6 @@
 <!-- HOLOGRAM HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=2600&pause=1200&color=17E5FF&center=true&vCenter=true&width=650&lines=Hanif+Muhamad+Zidane;Fullstack+Developer+%7C+AI+Engineer;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=2600&pause=1200&color=17E5FF&center=true&vCenter=true&width=650&lines=Hanif+Muhammad+Zidane;Fullstack+Developer+%7C+AI+Engineer;" />
 </p>
 
 <!-- HOLOGRAM HEADER -->
